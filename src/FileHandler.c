@@ -1,4 +1,4 @@
-#include "includes/Biggest.h"
+#include "../includes/SizeWorkz.h"
 
 long int get_size(char file_name[])
 {

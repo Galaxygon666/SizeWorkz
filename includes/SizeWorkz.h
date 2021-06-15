@@ -1,5 +1,5 @@
-#ifndef BiggestHeader
-#define BiggestHeader
+#ifndef SizeWorkzHeader
+#define SizeWorkzHeader
 
 #include <dirent.h>
 #include <stdio.h>

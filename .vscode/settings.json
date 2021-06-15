@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "biggest.h": "c",
+        "sizeworkz.h": "c"
+    }
+}
