@@ -1,6 +1,6 @@
 # SizeWorkz
 Basically WinDirStat 2.0 <br>
-TODO: <br>
+TODO:
 - Make it an DLL<br>
 - Make folder crawler function <br>
 - Make GUI in C# (WinForms) <br>
